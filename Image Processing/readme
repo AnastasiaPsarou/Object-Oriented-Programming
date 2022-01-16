@@ -1,0 +1,3 @@
+This project creates RGB, PPM, YUV images through the constraction of pixels. 
+Every image can be doubled, halved in size, rotated cloclwise and grayscaled.
+It also implements photo stacking and can find the histogram of a given image.
