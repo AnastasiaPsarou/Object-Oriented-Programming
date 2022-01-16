@@ -1,1 +1,1 @@
-In this project I created a calculator that takes into consideration spaces and parenthesis. Each operation is represented as a node of tree. Operation nodes that are closer to root will be executed prior to operations closer to the leaf nodes. 
+Arithmetic calculator takes into consideration spaces and parenthesis. Each operation is represented as a node of tree. Operation nodes that are closer to root will be executed prior to operations closer to the leaf nodes. 
